@@ -36,11 +36,11 @@ Upon authentication, the server outputs the banner containing the flag and termi
 <p><i>the flag after completing all of these steps</i></p>
 ___
 
-##Final Flag
+## Final Flag
 picoCTF{s3cur3_c0nn3ct10n_07a987ac}
 ___
 
-###Key Takeaways
+## Key Takeaways
 SSH Syntax: Understanding ssh username@hostname -p port syntax for custom port connections.
 
 Host Verification: Understanding how SSH uses public key fingerprints and known_hosts to prevent Man-In-The-Middle (MITM) attacks.
