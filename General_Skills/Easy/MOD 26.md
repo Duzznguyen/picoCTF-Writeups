@@ -43,8 +43,8 @@ ___
 picoCTF{next_time_I'll_try_2_rounds_of_rot13_45559abd}
 ___
 ## Key Takeaways
-Caesar Cipher / ROT13: Understanding basic monoalphabetic substitution ciphers.
+- Caesar Cipher / ROT13: Understanding basic monoalphabetic substitution ciphers.
 
-Symmetric Decryption: Recognizing that ROT13 is its own inverse cipher.
+- Symmetric Decryption: Recognizing that ROT13 is its own inverse cipher.
 
-Tooling Efficiency: Utilizing CyberChef or Linux tr for rapid cryptographic decoding during reconnaissance.
+- Tooling Efficiency: Utilizing CyberChef or Linux tr for rapid cryptographic decoding during reconnaissance.
