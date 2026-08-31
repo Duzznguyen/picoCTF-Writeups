@@ -41,8 +41,8 @@ picoCTF{s3cur3_c0nn3ct10n_07a987ac}
 ___
 
 ## Key Takeaways
-SSH Syntax: Understanding ssh username@hostname -p port syntax for custom port connections.
+- SSH Syntax: Understanding ssh username@hostname -p port syntax for custom port connections.
 
-Host Verification: Understanding how SSH uses public key fingerprints and known_hosts to prevent Man-In-The-Middle (MITM) attacks.
+- Host Verification: Understanding how SSH uses public key fingerprints and known_hosts to prevent Man-In-The-Middle (MITM) attacks.
 
-Remote Access: Exercising remote command-line authentication skills essential for penetration testing and administration.
+- Remote Access: Exercising remote command-line authentication skills essential for penetration testing and administration.
