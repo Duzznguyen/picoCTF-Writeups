@@ -37,4 +37,5 @@ picoCTF{61}
 ___
 ## Key Takeaways
 - Number Systems: Understanding Hexadecimal positional notation (0x prefix) and character values (A–F).
+
 - Flag Formatting: Wrapping calculated outputs into the required picoCTF{...} flag wrapper.
