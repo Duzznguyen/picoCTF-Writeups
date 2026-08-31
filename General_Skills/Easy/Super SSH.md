@@ -26,7 +26,7 @@ Open a terminal/command prompt and execute the SSH connection command specifying
 ```bash
 ssh ctf-player@titan.picoctf.net -p 58032
 ```
-###Step 2: Host Verification & Authentication
+### Step 2: Host Verification & Authentication
 When prompted to confirm host authenticity, type yes to accept the server's ED25519 key fingerprint.
 
 Enter the provided password: 84b12bae (Note: Password input is hidden in terminal environments).
