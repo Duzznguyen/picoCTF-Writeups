@@ -6,7 +6,7 @@
 
 This challenge introduces Netcat (`nc`), a fundamental networking utility used to read from and write to network connections using TCP or UDP protocols.
 
----
+___
 
 ## Analysis
 **Netcat (`nc`)** is often referred to as the "Swiss Army knife" of networking. In system administration and cybersecurity analysis, it is essential for:
@@ -14,7 +14,7 @@ This challenge introduces Netcat (`nc`), a fundamental networking utility used t
 - Reading and writing raw data directly over network ports.
 - Testing network connectivity, debugging services, and banner grabbing.
 
----
+___
 
 ## Solution
 
@@ -32,9 +32,12 @@ Upon successfully initiating the TCP connection, the remote server prints a gree
   <p><i>Using 'nc' to reveal the flag.</i></p>
 </div>
 
+____
+
 ## Final Flag
 picoCTF{nEtCat_Mast3ry_5c7cC1a9}
 
+___
 ## Key Takeaways
 - Netcat Syntax: Mastering the basic syntax nc <hostname> <port> for TCP socket communication.
 
