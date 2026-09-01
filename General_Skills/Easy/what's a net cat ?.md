@@ -32,6 +32,9 @@ Upon successfully initiating the TCP connection, the remote server prints a gree
   <p><i>Using 'nc' to reveal the flag.</i></p>
 </div>
 
+## Final Flag
+picoCTF{nEtCat_Mast3ry_5c7cC1a9}
+
 ## Key Takeaways
 - Netcat Syntax: Mastering the basic syntax nc <hostname> <port> for TCP socket communication.
 
