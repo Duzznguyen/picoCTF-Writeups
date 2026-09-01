@@ -33,7 +33,7 @@ Navigate to the restricted HTML page discovered in the Disallow entry (/cc6b1.ht
 ___
 
 ## Final Flag
-picoCTF{1f_u_f0110w_th3_r0b0t5_1d82b74f}
+picoCTF{ca1cu1at1ng_Mach1n3s_cc6b1}
 
 ___
 ## Key Takeaways
