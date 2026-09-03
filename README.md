@@ -3,7 +3,7 @@
 Welcome to my technical portfolio. This repository documents my progression through various cybersecurity challenges, demonstrating practical problem-solving skills and an evolving understanding of security fundamentals.
 
 ## Objective
-This project serves as a living document of my technical capabilities. My primary goal is to build a robust foundation in offensive security concepts, aiming for a role as a Junior Penetration Tester / Red Team Trainee.
+This project serves as a living document of my technical capabilities. My primary goal is to build a strong foundation in offensive security concepts and pursue a role as a Junior Penetration Tester / Red Team Trainee.
 
 ## Technical Proficiencies Developed
 Through consistent practice, I am honing my skills in several core domains:
@@ -26,18 +26,17 @@ I approach every challenge with a consultant mindset. My writeups are structured
 ### picoCTF
 | Category | Challenge Name | Difficulty | Writeup Link |
 | :--- | :--- | :---: | :--- |
-| General Skills | Python Wrangling | Easy | [Read Writeup](./picoCTF/General_Skills/python-wrangling.md) |
-| General Skills | Wave a flag | Easy | [Read Writeup](./picoCTF/General_Skills/wave-a-flag.md) |
-| Forensics | Information | Easy | [Read Writeup](./picoCTF/Forensics/information.md) |
-| Forensics | Wireshark doo doo | Easy | [Read Writeup](./picoCTF/Forensics/wireshark-doo-doo.md) |
+| General Skills | Python Wrangling | Easy | |
+| General Skills | Wave a flag | Easy | |
+
 
 ### OverTheWire: Bandit
 | Category | Challenge Name | Difficulty | Writeup Link |
 | :--- | :--- | :---: | :--- |
-| Linux CLI | Level 0 → 15 | N/A | [Read Writeups](./OverTheWire/Bandit/Levels-0-15.md) |
+| Linux CLI | Level 0 → 15 | N/A | |
 
 ---
 
 ## Disclaimer
 All information and techniques documented here are for educational purposes only. 
-**Spoiler Warning:** This repository contains direct solutions and flags for CTF challenges. Please attempt the challenges independently before consulting these writeups.
+**Warning:** This repository contains direct solutions and flags for CTF challenges. Please attempt the challenges independently before consulting these writeups.
