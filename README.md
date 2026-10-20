@@ -21,22 +21,6 @@ I approach every challenge with a consultant mindset. My writeups are structured
 
 ---
 
-## Completed Challenges Index
-
-### picoCTF
-| Category | Challenge Name | Difficulty | Writeup Link |
-| :--- | :--- | :---: | :--- |
-| General Skills | Python Wrangling | Easy | |
-| General Skills | Wave a flag | Easy | |
-
-
-### OverTheWire: Bandit
-| Category | Challenge Name | Difficulty | Writeup Link |
-| :--- | :--- | :---: | :--- |
-| Linux CLI | Level 0 → 15 | N/A | |
-
----
-
 ## Disclaimer
 All information and techniques documented here are for educational purposes only. 
 **Warning:** This repository contains direct solutions and flags for CTF challenges. Please attempt the challenges independently before consulting these writeups.
